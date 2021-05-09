@@ -1,7 +1,7 @@
 # You’re given the task of creating a Python chatbot that 
 # can help cut the wait time of a normal coffee run by taking customers’ orders in advance.
 
-# -------- Cafe's Chatbot to order coffee online -----------
+# -------- Cafe's Chatbot to order drinks -----------
 
 # Define your functions
 
