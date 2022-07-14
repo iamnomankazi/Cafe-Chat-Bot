@@ -1,5 +1,3 @@
-
-
 # -------- Cafe's Chatbot to order drinks -----------
 
 # Define your functions
